@@ -1,16 +1,10 @@
-# clima_flutter
+Clima flutter, gemaakt met flutter.
 
-A new Flutter project.
+Deze app, laat je het weer zien. (best simpel 😅).
 
-## Getting Started
+Deze app gebruikt een API om het weer te laten zien. Je kan kiezen tussen het weer van je momentele locatie, of een stad die je invult in zoekbalk.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dingen geleerd:
+  - API's
+  - Hoe text fields werken
+  - Hoe je data kan sturen naar verschillende pagina's
